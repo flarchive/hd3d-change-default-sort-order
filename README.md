@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of hd3d/change-default-sort-order.** Not for installation: use [Packagist](https://packagist.org/packages/hd3d/change-default-sort-order) or the [upstream repository](https://github.com/HD3D1/change-default-sort-order).
 
-**0** versions archived · Latest: [`v1.1`](https://github.com/flarchive/hd3d-change-default-sort-order/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.7`
+**1** versions archived · Latest: [`v1.1`](https://github.com/flarchive/hd3d-change-default-sort-order/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.1` | 2023-09-06 | `^1.7` | [Browse](https://github.com/flarchive/hd3d-change-default-sort-order/tree/archive/v1.1) |
 
 Catalog entry: [packages/hd3d-change-default-sort-order.json](https://github.com/flarchive/archive-index/blob/main/packages/hd3d-change-default-sort-order.json)
 
